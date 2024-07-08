@@ -1,0 +1,14 @@
+D:\CODE\Winform\Doan\DoodleJump\bin\Debug\DoodleJump.exe.config
+D:\CODE\Winform\Doan\DoodleJump\bin\Debug\DoodleJump.exe
+D:\CODE\Winform\Doan\DoodleJump\bin\Debug\DoodleJump.pdb
+D:\CODE\Winform\Doan\DoodleJump\obj\Debug\DoodleJump.csproj.AssemblyReference.cache
+D:\CODE\Winform\Doan\DoodleJump\obj\Debug\DoodleJump.csproj.SuggestedBindingRedirects.cache
+D:\CODE\Winform\Doan\DoodleJump\obj\Debug\DoodleJump.Properties.Resources.resources
+D:\CODE\Winform\Doan\DoodleJump\obj\Debug\DoodleJump.csproj.GenerateResource.cache
+D:\CODE\Winform\Doan\DoodleJump\obj\Debug\DoodleJump.csproj.CoreCompileInputs.cache
+D:\CODE\Winform\Doan\DoodleJump\obj\Debug\DoodleJump.exe
+D:\CODE\Winform\Doan\DoodleJump\obj\Debug\DoodleJump.pdb
+D:\CODE\Winform\Doan\DoodleJump\obj\Debug\DoodleJump.MainMenu_64_Thu.resources
+D:\CODE\Winform\Doan\DoodleJump\obj\Debug\DoodleJump.Top10Screen_64_Thu.resources
+D:\CODE\Winform\Doan\DoodleJump\obj\Debug\DoodleJump.GameScreen_64_Thu.resources
+D:\CODE\Winform\Doan\DoodleJump\obj\Debug\DoodleJump.HelpScreen_64_Thu.resources
